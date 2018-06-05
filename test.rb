@@ -30,7 +30,13 @@ e#nd
     # puts "your number is not greater than 10"
    #end
      
-     
+     if Time.now.hour >= 7 && Time.now.hour
+       >=11
+       puts "Good Morning!"
+     else Time.now.hour >= 11 && Time.now.hour
+       <=11
+       puts "too young."
+     end
      
      
      
