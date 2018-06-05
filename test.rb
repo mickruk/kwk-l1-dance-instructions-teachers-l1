@@ -17,18 +17,18 @@ e#nd
 #Create an if else program that displays passed if got a grade of 70 or higher and otherwise puts failed
 
 #grade = 50 
- if grade >= 70
-   puts "you passed!"
- else 
-   puts "you failed!"
- end
+ #if grade >= 70
+  # puts "you passed!"
+ #else 
+  # puts "you failed!"
+ #end
    
-   g = gets.chomp.to_1
-   if g>10 
-     puts "your number is greater than 10!"
-   else
-     puts "your number is not greater than 10"
-   end
+   #g = gets.chomp.to_1
+   #if g>10 
+   #  puts "your number is greater than 10!"
+   #else
+    # puts "your number is not greater than 10"
+   #end
      
      
      
