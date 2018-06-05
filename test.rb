@@ -11,7 +11,7 @@ if age < 10
 #if age > 18
 #  puts "welcome!" 
 #else 
-#  puts "too young. BYE!"
+##  puts "too young. BYE!"
 e#nd
 
 #Create an if else program that displays passed if got a grade of 70 or higher and otherwise puts failed
