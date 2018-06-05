@@ -23,5 +23,23 @@ grade = 50
    puts "you failed!"
  end
    
-   
+   g = gets.chomp.to_1
+   if g>10 
+     puts "your number is greater than 10!"
+   else
+     puts "your number is not greater than 10"
+   end
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
    
